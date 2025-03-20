@@ -82,6 +82,30 @@ footer {
     left: 0;
 }
 
+@media (max-width: 1024px) {
+    .navbar {
+        margin-bottom: 15px;
+    }
+
+    .carousel-item img {
+        height: 250px;
+    }
+
+    .card {
+        margin-bottom: 25px;
+    }
+
+    .team-image-container {
+        width: 175px;
+        height: 175px;
+    }
+
+    footer {
+        margin-top: 40px;
+        text-align: center;
+    }
+}
+
 @media (max-width: 768px) {
     .navbar {
         margin-bottom: 10px;
