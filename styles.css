@@ -116,12 +116,12 @@ input, textarea {
 }
 
 input:focus, textarea:focus {
-    border-color: #17a2b8; /* Light blue border */
+    border-color: #17a2b8; 
     box-shadow: 0 0 5px #17a2b8;
 }
 
 button[type="submit"] {
-    background: linear-gradient(to right, #28a745, #218838); /* Green gradient */
+    background: linear-gradient(to right, #28a745, #218838); 
     border: none;
     color: #fff;
     padding: 10px 20px;
